@@ -94,20 +94,3 @@ const page = () => {
 }
 
 export default page
-
-
-
-
-
-// bnmb
-// kgkhg
-// hgjhgj
-// gjhjg
-// kjgjhg
-// gghgjh
-// kkjk
-// hghjgjg
-// hgjhgjhghjg
-// jhgjhgjh
-// hgjhjhv
-// hgjhgj
